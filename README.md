@@ -34,3 +34,7 @@ A classic 2-player dice game built using vanilla JavaScript, HTML, and CSS. The 
 - JS functions like `Math.random()`, toggling classes
 - UI feedback through visuals and score updates
 
+## 🚀 Live preview
+
+http://tadroskaram.me/pig-game.js/
+
